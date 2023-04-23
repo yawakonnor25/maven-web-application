@@ -100,8 +100,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.210.38.95:8081/repository/Ngenix-appsnapsot/</url>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
+	      <url>http://54.210.38.95:8081/repository/Nginx-app-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

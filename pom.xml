@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-            /*<url>http://54.210.38.95:8081/repository/Nginx-app-releases/</url>*/
+            <!--<url>http://54.210.38.95:8081/repository/Nginx-app-releases/</url>-->
 	    <url>http://54.210.38.95:8081/repository/Nginx-app-Snapshot/</url>
 
 	    </repository>
@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      /*<url>http://54.210.38.95:8081/repository/Nginx-app-Snapshot/</url>*/
+	      <!--<url>http://54.210.38.95:8081/repository/Nginx-app-Snapshot/</url>-->
 	      <url>http://54.210.38.95:8081/repository/Nginx-app-releases/</url>
 
 	    </snapshotRepository>
